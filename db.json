@@ -1,1 +1,41 @@
-
+{
+  "people": [
+    {
+      "id": 1,
+      "nombre": "Dilan",
+      "apellido": "Barrios",
+      "edad": 19,
+      "ciudad": "Barranquilla"
+    },
+    {
+      "id": 2,
+      "nombre": "Danny",
+      "apellido": "Acosta",
+      "edad": 42,
+      "ciudad": "Barranquilla"
+    },
+    {
+      "id": 3,
+      "nombre": "Jose",
+      "apellido": "Barrios",
+      "edad": 23,
+      "ciudad": "Barranquilla"
+    },
+    {
+      "id": 4,
+      "nombre": "Luz"
+      "apellido": "Amariz",
+      "edad": 63,
+      "ciudad": "Barranquilla"
+    },
+    {
+      "id": 5,
+      "nombre": "Maria",
+      "apellido" "Gonzales",
+      "edad": 20,
+      "ciudad": "Medellin"
+    }
+   ]
+}
+      
+     
