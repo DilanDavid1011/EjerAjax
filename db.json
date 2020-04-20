@@ -1,5 +1,5 @@
 {
-  "people": [
+  "persona": [
     {
       "id": 1,
       "nombre": "Dilan",
@@ -23,7 +23,7 @@
     },
     {
       "id": 4,
-      "nombre": "Luz"
+      "nombre": "Luz",
       "apellido": "Amariz",
       "edad": 63,
       "ciudad": "Barranquilla"
@@ -31,7 +31,7 @@
     {
       "id": 5,
       "nombre": "Maria",
-      "apellido" "Gonzales",
+      "apellido": "Gonzales",
       "edad": 20,
       "ciudad": "Medellin"
     }
